@@ -1,4 +1,4 @@
-<h1>Building and Securing Active Directory</h1>
+<h1>Building and Configuring Active Directory</h1>
 
 
 <h2>Description</h2>
